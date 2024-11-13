@@ -1,3 +1,5 @@
+// 2d array
+
 #include <stdio.h>
 
 int main() {
