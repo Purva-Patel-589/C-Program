@@ -1,3 +1,4 @@
+//REVERSE PATTERN
 #include <stdio.h>
 
 int main() {
